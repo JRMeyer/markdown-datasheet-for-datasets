@@ -1,11 +1,10 @@
----
-Author: *YOUR NAME HERE*
-Org: *YOUR ORGANIZATION HERE*
-Title: *DATASHEET: YOUR DATASET NAME HERE*
----
+# Datasheet: Your Dataset Name Here
 
-# MOTIVATION
----
+Author: Your Name Here
+Organization: Your Organization Here
+
+
+## Motivation
 
 *The questions in this section are primarily intended to encourage dataset creators to clearly articulate their reasons for creating the dataset and to promote transparency about funding interests.*
 
@@ -25,8 +24,8 @@ Title: *DATASHEET: YOUR DATASET NAME HERE*
 
 	*YOUR ANSWER HERE*
 
-# COMPOSITION
----
+
+## Composition
 
 *Dataset creators should read through the questions in this section prior to any data collection and then provide answers once collection is complete. Most of these questions are intended to provide dataset consumers with the information they need to make informed decisions about using the dataset for specific tasks. The answers to some of these questions reveal information about compliance with the EU’s General Data Protection Regulation (GDPR) or comparable regulations in other jurisdictions.*
 
@@ -98,8 +97,8 @@ Title: *DATASHEET: YOUR DATASET NAME HERE*
 
 	*YOUR ANSWER HERE*
 
-# COLLECTION
----
+
+## Collection
 
 *As with the previous section, dataset creators should read through these questions prior to any data collection to flag potential issues and then provide answers once collection is complete. In addition to the goals of the prior section, the answers to questions here may provide information that allow others to reconstruct the dataset without access to it.*
 
@@ -155,8 +154,8 @@ Title: *DATASHEET: YOUR DATASET NAME HERE*
 
 	*YOUR ANSWER HERE*
 
-# PREPROCESSING / CLEANING / LABELING
----
+
+## Preprocessing / Cleaning / Labeling
 
 *Dataset creators should read through these questions prior to any pre-processing, cleaning, or labeling and then provide answers once these tasks are complete. The questions in this section are intended to provide dataset consumers with the information they need to determine whether the “raw” data has been processed in ways that are compatible with their chosen tasks. For example, text that has been converted into a “bag-of-words” is not suitable for tasks involving word order.*
 
@@ -176,8 +175,8 @@ Title: *DATASHEET: YOUR DATASET NAME HERE*
 
 	*YOUR ANSWER HERE*
 
-# USES
----
+
+## Uses
 
 *These questions are intended to encourage dataset creators to reflect on the tasks  for  which  the  dataset  should  and  should  not  be  used.  By  explicitly highlighting these tasks, dataset creators can help dataset consumers to make informed decisions, thereby avoiding potential risks or harms.*
 
@@ -205,8 +204,8 @@ Title: *DATASHEET: YOUR DATASET NAME HERE*
 
 	*YOUR ANSWER HERE*
 
-# DISTRIBUTION
----
+
+## Distribution
 
 *Dataset creators should provide answers to these questions prior to distributing the dataset either internally within the entity on behalf of which the dataset was created or externally to third parties.*
 
@@ -238,8 +237,8 @@ Title: *DATASHEET: YOUR DATASET NAME HERE*
 
 	*YOUR ANSWER HERE*
 
-# MAINTENANCE
----
+
+## Maintenance
 
 *As with the previous section, dataset creators should provide answers to these questions prior to distributing the dataset. These questions are intended to encourage dataset creators to plan for dataset maintenance and communicate this plan with dataset consumers.*
 
