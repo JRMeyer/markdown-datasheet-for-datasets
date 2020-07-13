@@ -6,4 +6,6 @@ You can also find a LaTeX template [here](https://github.com/AudreyBeard/Datashe
 
 ## Further Reading
 
-1. [Data Protection Impact Assessment](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/)
+### Data Protection Impact Assessment
+  - [European Commission guidelines](http://ec.europa.eu/newsroom/document.cfm?doc_id=47711)
+  - [UK Information Commissioner's Office guidelines](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/)
